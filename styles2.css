@@ -1,0 +1,182 @@
+body {
+    background: rgb(191, 189, 235);
+    background: linear-gradient(90deg, rgba(191, 189, 235, 1) 0%, rgba(221, 215, 209, 0) 20%, rgba(191, 227, 231, 0.3030196629213483) 35%);
+}
+
+.margin1left {
+    margin-top: 50px;
+    padding-left: 100px;
+}
+
+.margin1left {
+    margin-top: 50px;
+    padding-right: 100px;
+}
+
+.margin1right {
+    margin-top: 50px;
+    padding-right: 100px;
+}
+
+.flex1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fontfamily {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.heading2 {
+    margin-top: 20px;
+    padding-left: 100px;
+    font-family: sans-serif;
+    padding-right: 100px;
+}
+
+.borderupheading2 {
+    border-top: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.borderdownheading2 {
+    border-top: 1px solid black;
+    margin-top: 10px;
+}
+
+.fontsize1 {
+    font-size: 30px;
+}
+
+.heading3left {
+    margin-right: 20px;
+}
+
+.heading3right {
+    margin-left: 10px;
+}
+
+.flex2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.border1 {
+    border-top: 1px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.heading3 {
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.margin2left {
+    margin-top: 10px;
+    padding-left: 100px;
+}
+
+.margin2right {
+    margin-top: 10px;
+    padding-right: 100px;
+}
+
+.flex3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+
+.heading4 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.trapezoid {
+    border-bottom: 50px solid darkred;
+    border-left: 0px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0px;
+    width: 100px;
+    color: white;
+    margin-top: 20px;
+}
+
+.border2 {
+    border-top: 1px solid black;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 10px;
+    width: 500px;
+}
+
+
+
+.border3 {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
+
+.fontsize2 {
+    font-size: 25px;
+    color: red;
+}
+
+.fontsize3 {
+    font-size: 20px;
+}
+
+.dv1 {
+    width: 1000px
+}
+
+.dv2 {
+    width: 300px
+}
+
+.border4 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+
+.bottomup {
+    margin-left: 130px;
+    margin-right: 150px;
+    margin-top: 10px;
+    width: 450px;
+}
+
+.border5 {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    width: 500px;
+}
+
+
+.borderdownheading3 {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.container {
+    position: relative;
+}
+
+.text-block {
+    position: absolute;
+    color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
